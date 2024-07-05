@@ -55,7 +55,7 @@ const faqs = [
     setActive((pre)=> (pre === question ? null : question ));
   }
   return (
-    <div className="w-full  bg-gradient-to-r from-[#ff61c8] via-[#ffa4c8] via-30% to-[#f44487] ">
+    <div className="w-full  bg-gradient-to-r from-[#efdce8] via-[#faa3c5] via-30% to-[#e0d2d7] ">
       <div className="flex items-center flex-col justify-center w-full ">
       <h1 className="text-4xl m-4 text-white">Divueens</h1>
         
